@@ -1,0 +1,517 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* PhotoCalc */ = {
+		activeExec = 0;
+		executables = (
+			D3D4869611BF20880032AAAF /* PhotoCalc */,
+		);
+	};
+	289ED5040DB92497003600B4 /* PhotoCalcViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1090, 2587}}";
+			sepNavSelRange = "{692, 0}";
+			sepNavVisRange = "{166, 2269}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecturePreference = armv7;
+		activeBuildConfigurationName = Debug;
+		activeExecutable = D3D4869611BF20880032AAAF /* PhotoCalc */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* PhotoCalc */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* PhotoCalc */,
+		);
+		breakpoints = (
+			D386A81412E1265200615B27 /* PhotoCalcViewController.m:164 */,
+			D386A81B12E1265C00615B27 /* PhotoCalcViewController.m:184 */,
+			D386A81D12E126BB00615B27 /* PhotoCalcViewController.m:82 */,
+			D386A81F12E126BE00615B27 /* PhotoCalcViewController.m:88 */,
+			D386A83E12E1292400615B27 /* PhotoCalcViewController.m:122 */,
+		);
+		codeSenseManager = D3D486AA11BF20A70032AAAF /* Code sense */;
+		executables = (
+			D3D4869611BF20880032AAAF /* PhotoCalc */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					799.58349609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					912,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					852,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					888,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					872,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 316824470;
+			PBXWorkspaceStateSaveDate = 316824470;
+		};
+		perUserProjectItems = {
+			D313B96011EDC6BC004C9579 /* PBXTextBookmark */ = D313B96011EDC6BC004C9579 /* PBXTextBookmark */;
+			D313B96211EDC6BC004C9579 /* PBXTextBookmark */ = D313B96211EDC6BC004C9579 /* PBXTextBookmark */;
+			D313B98211EDCD2C004C9579 /* PBXTextBookmark */ = D313B98211EDCD2C004C9579 /* PBXTextBookmark */;
+			D31F20F5124047BE00A4295C /* PBXBookmark */ = D31F20F5124047BE00A4295C /* PBXBookmark */;
+			D32BF6DD129DDC3C00815116 /* PBXBookmark */ = D32BF6DD129DDC3C00815116 /* PBXBookmark */;
+			D386A6F512E11A7100615B27 /* PBXBookmark */ = D386A6F512E11A7100615B27 /* PBXBookmark */;
+			D386A6F612E11A7100615B27 /* PBXBookmark */ = D386A6F612E11A7100615B27 /* PBXBookmark */;
+			D386A6F712E11A7100615B27 /* PBXBookmark */ = D386A6F712E11A7100615B27 /* PBXBookmark */;
+			D386A6FE12E11A7100615B27 /* PlistBookmark */ = D386A6FE12E11A7100615B27 /* PlistBookmark */;
+			D386A6FF12E11A7100615B27 /* PBXTextBookmark */ = D386A6FF12E11A7100615B27 /* PBXTextBookmark */;
+			D386A73712E11CFC00615B27 /* PBXTextBookmark */ = D386A73712E11CFC00615B27 /* PBXTextBookmark */;
+			D386A76712E1209B00615B27 /* PBXTextBookmark */ = D386A76712E1209B00615B27 /* PBXTextBookmark */;
+			D386A76D12E120C300615B27 /* PBXTextBookmark */ = D386A76D12E120C300615B27 /* PBXTextBookmark */;
+			D386A81012E1262A00615B27 /* PBXTextBookmark */ = D386A81012E1262A00615B27 /* PBXTextBookmark */;
+			D386A85712E1300F00615B27 /* PBXTextBookmark */ = D386A85712E1300F00615B27 /* PBXTextBookmark */;
+			D386A85912E1300F00615B27 /* PBXTextBookmark */ = D386A85912E1300F00615B27 /* PBXTextBookmark */;
+			D3EA654912E25B9E0017F11E /* PBXTextBookmark */ = D3EA654912E25B9E0017F11E /* PBXTextBookmark */;
+			D3EA654A12E25B9E0017F11E /* PBXBookmark */ = D3EA654A12E25B9E0017F11E /* PBXBookmark */;
+		};
+		sourceControlManager = D3D486A911BF20A70032AAAF /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1090, 785}}";
+			sepNavSelRange = "{61, 0}";
+			sepNavVisRange = "{0, 290}";
+		};
+	};
+	8D1107310486CEB800E47090 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 179}, {1289, 994}}";
+		};
+	};
+	D313B96011EDC6BC004C9579 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D313B96111EDC6BC004C9579 /* UIViewController.h */;
+		name = "UIViewController.h: 45";
+		rLen = 74;
+		rLoc = 1327;
+		rType = 0;
+		vrLen = 1326;
+		vrLoc = 0;
+	};
+	D313B96111EDC6BC004C9579 /* UIViewController.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIViewController.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h;
+		sourceTree = "<absolute>";
+	};
+	D313B96211EDC6BC004C9579 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D313B96311EDC6BC004C9579 /* UIResponder.h */;
+		name = "UIResponder.h: 12";
+		rLen = 55;
+		rLoc = 186;
+		rType = 0;
+		vrLen = 1886;
+		vrLoc = 0;
+	};
+	D313B96311EDC6BC004C9579 /* UIResponder.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIResponder.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h;
+		sourceTree = "<absolute>";
+	};
+	D313B96711EDC6BC004C9579 /* NSObject.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSObject.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h;
+		sourceTree = "<absolute>";
+	};
+	D313B98211EDCD2C004C9579 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D313B96711EDC6BC004C9579 /* NSObject.h */;
+		name = "NSObject.h: 65";
+		rLen = 33;
+		rLoc = 1205;
+		rType = 0;
+		vrLen = 915;
+		vrLoc = 0;
+	};
+	D31F20F5124047BE00A4295C /* PBXBookmark */ = {
+		isa = PBXBookmark;
+	};
+	D32BF6DD129DDC3C00815116 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+	};
+	D386A62612E118C700615B27 /* PhotoCalcAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {884, 312}}";
+			sepNavSelRange = "{299, 0}";
+			sepNavVisRange = "{200, 194}";
+		};
+	};
+	D386A62712E118C700615B27 /* PhotoCalcAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1090, 762}}";
+			sepNavSelRange = "{303, 0}";
+			sepNavVisRange = "{0, 984}";
+		};
+	};
+	D386A62812E118C700615B27 /* PhotoCalcViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1090, 762}}";
+			sepNavSelRange = "{1299, 0}";
+			sepNavVisRange = "{0, 1518}";
+		};
+	};
+	D386A62A12E1192F00615B27 /* PhotoCalc_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1090, 785}}";
+			sepNavSelRange = "{150, 0}";
+			sepNavVisRange = "{0, 341}";
+		};
+	};
+	D386A6F512E11A7100615B27 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = D352D3A212C03093006BBFC2 /* Default.png */;
+	};
+	D386A6F612E11A7100615B27 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = D352D39E12C0300D006BBFC2 /* optik-brennweite-k.jpg */;
+	};
+	D386A6F712E11A7100615B27 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = D352D39F12C0300D006BBFC2 /* photo_calc_icon.png */;
+	};
+	D386A6FE12E11A7100615B27 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = /Users/spidy/Dev/PhotoCalc/Info.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	D386A6FF12E11A7100615B27 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D386A62A12E1192F00615B27 /* PhotoCalc_Prefix.pch */;
+		name = "PhotoCalc_Prefix.pch: 9";
+		rLen = 0;
+		rLoc = 150;
+		rType = 0;
+		vrLen = 341;
+		vrLoc = 0;
+	};
+	D386A73712E11CFC00615B27 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 7";
+		rLen = 0;
+		rLoc = 61;
+		rType = 0;
+		vrLen = 290;
+		vrLoc = 0;
+	};
+	D386A76712E1209B00615B27 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D386A62712E118C700615B27 /* PhotoCalcAppDelegate.m */;
+		name = "PhotoCalcAppDelegate.m: 20";
+		rLen = 0;
+		rLoc = 303;
+		rType = 0;
+		vrLen = 984;
+		vrLoc = 0;
+	};
+	D386A76D12E120C300615B27 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D386A62612E118C700615B27 /* PhotoCalcAppDelegate.h */;
+		name = "PhotoCalcAppDelegate.h: 12";
+		rLen = 0;
+		rLoc = 183;
+		rType = 0;
+		vrLen = 473;
+		vrLoc = 0;
+	};
+	D386A81012E1262A00615B27 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D386A81112E1262A00615B27 /* CGGeometry.h */;
+		name = "CGGeometry.h: 198";
+		rLen = 63;
+		rLoc = 5773;
+		rType = 0;
+		vrLen = 1285;
+		vrLoc = 0;
+	};
+	D386A81112E1262A00615B27 /* CGGeometry.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CGGeometry.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h;
+		sourceTree = "<absolute>";
+	};
+	D386A81412E1265200615B27 /* PhotoCalcViewController.m:164 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 289ED5040DB92497003600B4 /* PhotoCalcViewController.m */;
+		functionName = "-keyboardWasShown:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 164;
+		location = PhotoCalc;
+		modificationTime = 316746781.890895;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	D386A81B12E1265C00615B27 /* PhotoCalcViewController.m:184 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 289ED5040DB92497003600B4 /* PhotoCalcViewController.m */;
+		functionName = "-keyboardWillBeHidden:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 184;
+		location = PhotoCalc;
+		modificationTime = 316746814.53699;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	D386A81D12E126BB00615B27 /* PhotoCalcViewController.m:82 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 289ED5040DB92497003600B4 /* PhotoCalcViewController.m */;
+		functionName = "-textFieldShouldBeginEditing:";
+		hitCount = 2;
+		ignoreCount = 0;
+		lineNumber = 82;
+		location = PhotoCalc;
+		modificationTime = 316746844.3344229;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	D386A81F12E126BE00615B27 /* PhotoCalcViewController.m:88 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 289ED5040DB92497003600B4 /* PhotoCalcViewController.m */;
+		functionName = "-textFieldShouldReturn:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 88;
+		location = PhotoCalc;
+		modificationTime = 316746791.536787;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	D386A83E12E1292400615B27 /* PhotoCalcViewController.m:122 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 289ED5040DB92497003600B4 /* PhotoCalcViewController.m */;
+		functionName = "-touchesBegan:withEvent:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 122;
+		location = PhotoCalc;
+		modificationTime = 316746781.891829;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	D386A85712E1300F00615B27 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D386A85812E1300F00615B27 /* UITextField.h */;
+		name = "UITextField.h: 180";
+		rLen = 27;
+		rLoc = 7588;
+		rType = 0;
+		vrLen = 3074;
+		vrLoc = 5734;
+	};
+	D386A85812E1300F00615B27 /* UITextField.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UITextField.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextField.h;
+		sourceTree = "<absolute>";
+	};
+	D386A85912E1300F00615B27 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D386A62812E118C700615B27 /* PhotoCalcViewController.h */;
+		name = "PhotoCalcViewController.h: 38";
+		rLen = 0;
+		rLoc = 1299;
+		rType = 0;
+		vrLen = 1518;
+		vrLoc = 0;
+	};
+	D3D4869611BF20880032AAAF /* PhotoCalc */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = PhotoCalc;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	D3D486A911BF20A70032AAAF /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	D3D486AA11BF20A70032AAAF /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	D3EA654912E25B9E0017F11E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289ED5040DB92497003600B4 /* PhotoCalcViewController.m */;
+		name = "PhotoCalcViewController.m: 30";
+		rLen = 0;
+		rLoc = 692;
+		rType = 0;
+		vrLen = 2269;
+		vrLoc = 166;
+	};
+	D3EA654A12E25B9E0017F11E /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = D352D39F12C0300D006BBFC2 /* photo_calc_icon.png */;
+	};
+}
