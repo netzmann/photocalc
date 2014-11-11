@@ -49,6 +49,7 @@
 	//self.scrollView.contentSize = CGSizeMake(320, 1000);
     self.scrollView.viewController = self;
 	[self registerForKeyboardNotifications];
+    [super viewDidLoad];
 }
 
 
