@@ -322,7 +322,7 @@
 				INFOPLIST_FILE = Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				PRODUCT_NAME = PhotoCalc;
-				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE = "5fc5d3c2-b837-4006-a9a0-bc2ff914496f";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
@@ -342,7 +342,7 @@
 				INFOPLIST_FILE = Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				PRODUCT_NAME = HelloWorld;
-				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE = "5fc5d3c2-b837-4006-a9a0-bc2ff914496f";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
